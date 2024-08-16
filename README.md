@@ -9,4 +9,4 @@ What are different order status in 2022?
 List top 10 states contributing to the sales?
 Relation between age and gender based on number
 Which channel is contributing to maximum sales? 
-Highest selling category?, etc.
+Highest selling category?
